@@ -12,7 +12,7 @@ Run the Main.py file
 Click input file and select the CSV you just created
 Creat a file that you'd like to save the import information to. Right click on your desktop > create new > Text document
 Click output File and select the text file you just created
-CLick Create Configuration
+Click Create Configuration
 
 Open the output file in a text editor and make sure the xml configuration is present
 
