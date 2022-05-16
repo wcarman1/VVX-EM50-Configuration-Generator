@@ -7,7 +7,7 @@ Create a .csv file with the key number in column A and directory number in colum
 See exampleSidecar.csv for an example of the file. **column C isn't used to create the import file it's just there to make it easier to arange the keys**
 Fill in the csv file with the extensions making sure to put them in the order you'd like them to appear on the EM50.
 
-Run the Main.py file
+Run the Main.py file or run the em50 config.exe file which is a all in one file created using pyinstaller (no installation is required to use this tool)
 
 Click input file and select the CSV you just created
 Creat a file that you'd like to save the import information to. Right click on your desktop > create new > Text document
